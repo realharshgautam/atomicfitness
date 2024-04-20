@@ -1,5 +1,5 @@
 
-# Welcome to Atomic Fitness Gym Website Development Repository 💻
+# Welcome to Atomic Fitness Gym Repository 💻
 
 Welcome to the Atomic Fitness Gym website development repository! Here you'll find all the information, resources, and updates related to the development and maintenance of our cutting-edge fitness website.
 
